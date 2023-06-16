@@ -1,0 +1,27 @@
+.idk {
+    width: 130px;
+    height: 39.82px;
+    background: #FF4800;
+    border-radius: 0px;
+    margin-left: 40px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    color: #FFFFFF;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+}
+.nav-link{
+    color: #4E4E91 !important;
+}
+.navbar-nav{
+    align-items: center;
+}
